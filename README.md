@@ -8,7 +8,7 @@ Voyogo is a full-stack bus booking system with JWT authentication, role-based ac
 voyogo project/
   backend/voyogo/            # Spring Boot API (Java 21, PostgreSQL)
   frontend/voyogo-frontend/  # React + Vite client
-```
+```     
 
 ## Tech Stack
 
